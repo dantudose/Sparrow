@@ -51,3 +51,8 @@ The board comes pre-loaded with a bootloader. If you need to re-write it, connec
   </tr>
 </tbody>
 </table>
+
+## License Information
+
+This product is _**open source**_! 
+
