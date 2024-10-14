@@ -1,6 +1,8 @@
 # Sparrow
 
-Arduino-compatible IoT sensor node made from two boards: the Node and the Nest - used for programming and debugging.
+## Arduino-compatible IoT sensor node made from two boards: the Node and the Nest - used for programming and debugging.
+
+<img src="https://github.com/dantudose/Sparrow/blob/main/Node/Images/Sparrow.jpg" height="300"/>
 
 Features include:
 
@@ -11,3 +13,5 @@ Features include:
 * Light sensor (visible, IR and UV spectrum, luxmeter and UV radiation index)
 * High capacity CR2450 battery holder
 * Fully-compatible with Arduino, with dedicated libraries for easy programming of the sensors and radio.
+
+<img src="https://github.com/dantudose/Sparrow/blob/main/Node/Images/sparrow_diagram.png" height="500"/>
