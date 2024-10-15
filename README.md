@@ -65,6 +65,61 @@ The board comes pre-loaded with a bootloader. Should you need to re-write it, co
 </tbody>
 </table>
 
+## Pinout and Sensor Addresses
+
+<table><thead>
+  <tr>
+    <th></th>
+    <th>GPIO Pin</th>
+    <th>Arduino Pin</th>
+    <th></th>
+    <th>Sensor</th>
+    <th>I2C Address</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>LED R</td>
+    <td>PB4</td>
+    <td>8</td>
+    <td></td>
+    <td>Si1145</td>
+    <td>0x60</td>
+  </tr>
+  <tr>
+    <td>LED G</td>
+    <td>PB5</td>
+    <td>11</td>
+    <td></td>
+    <td>Si7020</td>
+    <td>0x40</td>
+  </tr>
+  <tr>
+    <td>LED B</td>
+    <td>PB6</td>
+    <td>10</td>
+    <td></td>
+    <td>MS5637</td>
+    <td>0x76</td>
+  </tr>
+  <tr>
+    <td>Sensor <br>Enable</td>
+    <td>PE7</td>
+    <td>19</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Battery<br>Level</td>
+    <td>PF0</td>
+    <td>A0</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 ## License Information
 
 This product is _**open source**_! 
