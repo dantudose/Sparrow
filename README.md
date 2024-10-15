@@ -102,7 +102,7 @@ The board comes pre-loaded with a bootloader. Should you need to re-write it, co
     <td>0x76</td>
   </tr>
   <tr>
-    <td>Sensor <br>Enable</td>
+    <td>Sensor <br>Enable <br> Active LOW</td>
     <td>PE7</td>
     <td>19</td>
     <td></td>
