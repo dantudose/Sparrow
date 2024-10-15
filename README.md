@@ -35,11 +35,11 @@ Features include:
 7. Hit Install
 8. You're done!
 
-#### Tutorials
+### Tutorials
 
 Most tutorials for using the on-board sensors or radio are available <a href="https://clkdiv8.com/wiki/doku.php/tutorials">here</a>.
 
-#### Bootloader
+### Bootloader
 The board comes pre-loaded with a bootloader. Should you need to re-write it, connect an AVR-ISP or JTAG to the corresponding port and burn the <a href="https://github.com/dantudose/Sparrow/blob/main/Node/bin/">bootloader</a> .hex file with _atmega128rfa1_ as a target and the following fuse settings:
 
 <table>
