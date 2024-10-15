@@ -123,5 +123,7 @@ The board comes pre-loaded with a bootloader. Should you need to re-write it, co
 ## License Information
 
 This product is _**open source**_! 
+
 Please review the LICENSE file for license information.
+
 Distributed as-is; no warranty is given.
