@@ -24,7 +24,16 @@ Features include:
 
 ## Programming
 
-### avr-gcc & Makefile
+### Installing Arduino Libraries and Boad Configs
+
+1. Open the Arduino IDE
+2. Go to File → Preferences
+3. In the Additional Boards Manager URLs textbox add the following link: http://clkdiv8.com/download/package_clkdiv8pre_index.json
+4. Close the window by pressing OK
+5. Go to Tools → Board → Boards Manager
+6. Search “sparrow”
+7. Hit Install
+8. You're done!
 
 #### Bootloader
 The board comes pre-loaded with a bootloader. If you need to re-write it, connect an AVR-ISP or JTAG to the corresponding port and burn the <a href="https://github.com/dantudose/Sparrow/blob/main/Node/bin/">bootloader</a> .hex file with _atmega128rfa1_ as a target and the following fuse settings:
