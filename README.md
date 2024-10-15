@@ -2,7 +2,7 @@
 
 ## Arduino-compatible IoT sensor node made from two boards: the Node and the Nest - used for programming and debugging.
 
-<img src="https://github.com/dantudose/Sparrow/blob/main/Node/Images/Sparrow.jpg" height="300"/>
+<img src="https://github.com/dantudose/Sparrow/blob/main/Node/Images/Sparrow.jpg" height="300" class="center"/>
 
 Features include:
 
